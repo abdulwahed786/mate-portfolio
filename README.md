@@ -1,6 +1,6 @@
 # Portfolio website
 
-[![Travis badge](https://api.travis-ci.org/EmaSuriano/g
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1c5fa4df-855b-4c6a-ab75-85e4b0060fa5/deploy-status)](https://app.netlify.com/sites/abdulwahed/deploys)
 [![eslint](https://img.shields.io/badge/eslint-enabled-green.svg)](https://eslint.org/)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
