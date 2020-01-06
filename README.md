@@ -12,17 +12,6 @@ The target audience are Developers 💻 and Tech Writers ✍️.
 
 
 
-## How to start ▶️
-
-
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YviWsypJF9c">
-   <img src="https://media.giphy.com/media/LQp2DrNPPUPybUwVx9/giphy.gif" alt="Watch the tutorial"/>
-  </a>
-</p>
-
-
 ## Configuration (Optional) 👷‍♂️
 
 Mate starter is a SPA (Single Page Application), so basically you have only two pages:
